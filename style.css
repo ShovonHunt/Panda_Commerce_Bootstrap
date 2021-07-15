@@ -1,0 +1,12 @@
+.panda-carousel {
+  background-color: #feeae9;
+}
+.panda-card {
+  border: 0;
+  box-shadow: 2px 2px 8px lightgray;
+  border-radius: 1em;
+}
+.panda-card .panda-card-footer {
+  background-color: white;
+  border: 0;
+}
